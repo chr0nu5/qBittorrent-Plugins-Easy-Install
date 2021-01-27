@@ -1,1 +1,2 @@
-# qBittorrent-Plugins-Easy-Install
+# qBittorrent Plugins Easy Install
+
